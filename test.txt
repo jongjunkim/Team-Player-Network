@@ -1,0 +1,87 @@
+Mike Lewis,Boston Celtics,2022
+Mike Lewis,Boston Celtics,2021
+Mike Lewis,Boston Celtics,2020
+Tim Peck,Boston Celtics,2020
+Tim Peck,LA Lakers,2019
+Katie Tiao,LA Lakers,2019
+Katie Tiao,LA Lakers,2018
+Katie Tiao,LA Lakers,2017
+Callisto Hess,LA Lakers,2017
+Jason Lee,Newyork Yankees,1902
+Jason Lee,Newyork Yankees,1903
+Jason Lee,Newyork Yankees,1904
+Jason Lee,Newyork Yankees,1905
+Jason Lee,Newyork Yankees,1906
+Yu Sun,LA Lakers,2017
+Yu Sun,Milwaukee Bucks,2016
+Necati Ayan,Milwaukee Bucks,2016
+Jong jun,Boston Celtics,2010
+Jong jun,Boston Celtics,2011
+Jong jun,Boston Celtics,2012
+Good Person,Milwaukee Bucks,2016
+Good Person,Milwaukee Bucks,2017
+Good Person,Milwaukee Bucks,2018
+Good Person,Milwaukee Bucks,2019
+Jason Lee,Newyork Yankees,1900
+Jason Lee,Newyork Yankees,1901
+Jason Lee,Newyork Yankees,1907
+Jason Lee,Newyork Yankees,1908
+Jason Lee,Newyork Yankees,1909
+Jason Lee,Newyork Yankees,1910
+Toby Brian,Newyork Yankees,1908
+Toby Brian,Newyork Yankees,1909
+Toby Brian,Newyork Yankees,1910
+Toby Brian,Newyork Yankees,1911
+Toby Brian,Newyork Yankees,1912
+Frank Lampard,Newyork Yankees,1911
+Frank Lampard,Chicago Cubs,1912
+Frank Lampard,Chicago Cubs,1913
+Frank Lampard,Chicago Cubs,1914
+Frank Lampard,Chicago Cubs,1915
+Frank Lampard,Detroit Tigers,1916
+Frank Lampard,Detroit Tigers,1917
+Frank Lampard,Detroit Tigers,1918
+Andreas Cully,Atlanta Braves,1920
+Andreas Cully,Atlanta Braves,1919
+Andreas Cully,Atlanta Braves,1918
+Andreas Cully,Newyork Yankees,1917
+Andreas Cully,Newyork Yankees,1916
+Andreas Cully,Newyork Yankees,1915
+Andreas Cully,Newyork Yankees,1914
+Ted Williams, Pittsburgh Pirates,1926
+Ted Williams, Pittsburgh Pirates,1925
+Ted Williams, Pittsburgh Pirates,1924
+Ted Williams, Pittsburgh Pirates,1927
+Ted Williams, Pittsburgh Pirates,1921
+Ted Williams, Pittsburgh Pirates,1928
+Ted Williams, Pittsburgh Pirates,1929
+Ted Williams, Pittsburgh Pirates,1930
+Barry Bonds, SanFransico Giants,1935
+Barry Bonds, SanFransico Giants,1934
+Barry Bonds, SanFransico Giants,1933
+Barry Bonds, SanFransico Giants,1932
+Barry Bonds, SanFransico Giants,1931
+Barry Bonds, Pittsburgh Pirates,1930
+Barry Bonds, SanFransico Giants,1929
+Al Simmons,Chicago White Sox,1930
+Al Simmons,Chicago White Sox,1931
+Al Simmons,Chicago White Sox,1932
+Al Simmons,Chicago White Sox,1933
+Al Simmons,Chicago White Sox,1934
+Al Simmons,SanFransico Giants,1935
+Al Simmons,SanFransico Giants,1936
+Al Simmons,Chicago White Sox,1937
+Al Simmons,Chicago White Sox,1938
+Al Simmons,Chicago White Sox,1939
+Al Simmons,Chicago White Sox,1940
+Al Simmons,Detroit Tigers,1941
+Al Simmons,Detroit Tigers,1942
+Al Simmons,Detroit Tigers,1943
+Al Simmons,Detroit Tigers,1944
+Al Simmons,Detroit Tigers,1945
+Jimmie Foxx,Detroit Tigers,1945
+Jimmie Foxx,Detroit Tigers,1946
+Jimmie Foxx,Detroit Tigers,1947
+Jimmie Foxx,Detroit Tigers,1948
+Jimmie Foxx,Detroit Tigers,1949
+Jimmie Foxx,Detroit Tigers,1950
